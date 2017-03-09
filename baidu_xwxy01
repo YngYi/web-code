@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="zh_CN">
+<head>
+<meta charset="utf-8"/>
+<meta name="description" content="百度前端学院中小薇学院任务一的主要内容"/>
+<meta name="keywords" content="百度前端学院,小薇学院的任务"/>
+	<title>任务一—小微学院</title>
+
+</head>
+<body>
+<header>
+<h1>小薇学院任务一：</h1>
+
+<p>开始制作日期：<time datetime="2017-03-03" pubdate="2017-03-03">2017年3月3日 13:00</time></p>
+<nav>
+<a href="#">导航链接一</a>
+<a href="#">导航链接二</a>
+<a href="#">导航链接三</a>
+<a href="#">导航链接四</a>
+</nav>
+</header>
+<article>
+<header>
+<h2>重要说明：</h2>
+<h3>文章的二级标题：</h3>
+<p>原作者:小薇学院 &nbsp;&nbsp;转制时间：<time datetime="2017-03-03">2017年3月3日 13:42</time></p>
+</header>
+<p><strong><a href="http://ife.baidu.com/" target="_blank">百度前端技术学院</a></strong>的课程任务是由<em>百度前端工程师</em>专为对前端不同掌握程度的同学设计。我们尽力保证课程内容的质量以及学习难度的合理性，但即使如此，真正决定课程效果的，还是你的每一次思考和实践。</p>
+<a href="http://ife.baidu.com/mentor/detail/id/27" target="_blank"><img src="http://gss0.baidu.com/9rkZbzqaKgQUohGko9WTAnF6hhy/mms-res/fed/ife/ife_tutor/课程配图.3fb31f3e5af7e8d7.jpg" alt="文章配图" title="小薇学院"/></a>
+<p>课程多数题目的解决方案都不是唯一的，这和我们在实际工作中的情况也是一致的。因此，我们的要求不仅仅是实现设计稿的效果，更是要多去思考不同的解决方案，评估不同方案的优劣，然后使用在该场景下最优雅的方式去实现。那些最终没有被我们采纳的方案，同样也可以帮助我们学到很多知识。所以，我们列出的参考资料未必是实现需求所必须的。有的时候，实现题目的要求很简单，甚至参考资料里就有，但是背后的思考和亲手去实践却是任务最关键的一部分。在学习这些资料时，要多思考，多提问，多质疑。相信通过和小伙伴们的交流，能让你的学习事半功倍。</p>
+<header>
+<h2>任务目的：</h2>
+<h3>文章的二级标题：</h3>
+<p>原作者：小薇学院&nbsp;&nbsp;转制时间：<time datetime="2017-03-03">2017年3月3日 13:44</time></p>
+</header>
+<a href="http://ife.baidu.com/mentor/detail/id/27" target="_blank"><img src="http://gss0.baidu.com/9rkZbzqaKgQUohGko9WTAnF6hhy/mms-res/fed/ife/ife_tutor/课程配图.3fb31f3e5af7e8d7.jpg" alt="文章配图" title="小薇学院"/></a>
+<ul>
+	<li>了解HTML的定义、概念、发展简史</li>
+	<li>掌握常用HTML标签的含义、用法</li>
+	<li>能够基于设计稿来合理规划HTML文档结构</li>
+	<li>理解语义化，合理地使用HTML标签来构建页面</li>
+</ul>
+<header>
+<h2>任务描述：</h2>
+<h3>文章的二级标题：</h3>
+<p>原作者：小薇学院 &nbsp;&nbsp;转制时间：<time datetime="2017-03-03">2017年3月3日 13:59</time></p>
+</header>
+<ul><li>参考<a href="http://7xrp04.com1.z0.glb.clouddn.com/task_1_1_1.jpg" target="_blank">示例图（点击查看）</a>，完成一个HTML页面代码编写（不写CSS，不需要关注样式，只关注文档结构）</li></ul>
+<header>
+<h2>在线学习参考资料：</h2>
+<h3>文章的二级标题：</h3>
+<p>原作者：小薇学院 &nbsp;&nbsp;转制时间：<time datetime="2017-03-03">2017年3月3日 14:05</time></p>
+</header>
+<ul>
+<li><a href="https://www.zhihu.com/question/22689579">Web相关名词通俗解释</a></li>	
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/Introduction">MDN HTML入门</a></li>
+<li><a href="http://www.imooc.com/learn/9">慕课HTML+CSS基础教程视频</a></li>
+</ul>
+<h2>图片</h2>
+<span><p>好看的图片</p>
+<img src="http://gss0.baidu.com/9rkZbzqaKgQUohGko9WTAnF6hhy/mms-res/fed/ife/ife_tutor/课程配图.3fb31f3e5af7e8d7.jpg" alt="好看的图片"/>
+</span>
+<span><p>好看的图片</p>
+<img src="http://gss0.baidu.com/9rkZbzqaKgQUohGko9WTAnF6hhy/mms-res/fed/ife/ife_tutor/课程配图.3fb31f3e5af7e8d7.jpg" alt="好看的图片"/>
+</span>
+<span><p>好看的图片</p>
+<img src="http://gss0.baidu.com/9rkZbzqaKgQUohGko9WTAnF6hhy/mms-res/fed/ife/ife_tutor/课程配图.3fb31f3e5af7e8d7.jpg" alt="好看的图片"/>
+</span>
+<span><p>好看的图片</p>
+<img src="http://gss0.baidu.com/9rkZbzqaKgQUohGko9WTAnF6hhy/mms-res/fed/ife/ife_tutor/课程配图.3fb31f3e5af7e8d7.jpg" alt="好看的图片"/>
+</span>
+<span><p>好看的图片</p>
+<img src="http://gss0.baidu.com/9rkZbzqaKgQUohGko9WTAnF6hhy/mms-res/fed/ife/ife_tutor/课程配图.3fb31f3e5af7e8d7.jpg" alt="好看的图片"/>
+</span>
+<span><p>好看的图片</p>
+<img src="http://gss0.baidu.com/9rkZbzqaKgQUohGko9WTAnF6hhy/mms-res/fed/ife/ife_tutor/课程配图.3fb31f3e5af7e8d7.jpg" alt="好看的图片"/>
+</span>
+<span><p>好看的图片</p>
+<img src="http://gss0.baidu.com/9rkZbzqaKgQUohGko9WTAnF6hhy/mms-res/fed/ife/ife_tutor/课程配图.3fb31f3e5af7e8d7.jpg" alt="好看的图片"/>
+</span>
+<span><p>好看的图片</p>
+<img src="http://gss0.baidu.com/9rkZbzqaKgQUohGko9WTAnF6hhy/mms-res/fed/ife/ife_tutor/课程配图.3fb31f3e5af7e8d7.jpg" alt="好看的图片"/>
+</span>
+<span><p>好看的图片</p>
+<img src="http://gss0.baidu.com/9rkZbzqaKgQUohGko9WTAnF6hhy/mms-res/fed/ife/ife_tutor/课程配图.3fb31f3e5af7e8d7.jpg" alt="好看的图片"/>
+</span>
+<header>
+<h2>最后一篇文章</h2>
+<h3>文章二级标题</h3>
+<p>原作者：小薇学院 &nbsp;&nbsp;转制时间：<time datetime="2017-03-03">2017年3月3日 14:25</time></p>
+</header>
+<ol>
+	<li>排名1</li>
+	<li>排名2</li>
+	<li>排名3</li>
+</ol>
+<p>下面是一个表格：</p>
+<table border="1px" summary="这是一个表格">
+<caption>表格标题</caption>
+<tbody>
+
+<tr>
+<th>表头一</th>
+<th>表头二</th>
+<th>表头三</th>
+<th>表头四</th>
+</tr>
+<tr>
+	<td>内容一</td>
+	<td>内容一</td>
+	<td>内容一</td>
+	<td><a href="javascript:;">操作</a></td>
+</tr>
+<tr>
+	<td>内容二</td>
+	<td>内容二</td>
+	<td>内容二</td>
+	<td><a href="javascript:;">操作</a></td>
+</tr>
+<tr>
+	<td>内容四</td>
+	<td>内容四</td>
+	<td>内容四</td>
+	<td><a href="javascript:;">操作</a></td>
+</tr>
+<tr>
+	<td colspan="2">总计</td>
+	<td colspan="2">1000</td>
+	
+	
+</tr>
+</tbody>
+</table>
+</article>
+<h2>侧栏，标题</h2>
+<h3>侧栏注册窗口标题</h3>
+<form action="#" method="get">
+	<span>请输入您的E-mail地址：<input type="emali" name="user_email" placeholder="xxx@xx.com" /></span>
+	<p>邮箱地址请按要求格式输入</p>
+	<span>请输入密码：<input type="password" name="user_password"/>请重复输入密码：<input type="password" name="user_password"/></span>
+	<p>密码请为6-16为英文数字</p>
+	<span>性别：<input type="radio" name="user_sex" />男</span>
+	<span><input type="radio" name="user_sex"/>女</span>
+	<span>城市：
+	<select name="user_area">
+	<option value="1">北京</option>
+	<option value="2">天津</option>
+	<option value="3">重庆</option>
+	<option value="4">上海</option>
+	<option value="5">成都</option>
+	</select>
+	</span>
+	<span>爱好：<input type="checkbox" name="user_hobby">运动
+	<input type="checkbox" name="user_hobby">艺术
+	<input type="checkbox" name="user_hobby">睡觉
+	<input type="checkbox" name="user_hobby">科学
+	</span>
+	<span>个人描述：<textarea name="user_describe"></textarea></span>
+	<input type="submit" value="提交">
+</form>
+<footer>版权说有©</footer>
+</body>
+</html>
